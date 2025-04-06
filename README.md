@@ -1,6 +1,8 @@
 # Geometric Morphometric (GM) Analysis of Bat Skulls in the Genus *Molossus*
 
-This repository contains the script and associated information for the geometric morphometric (GM) analysis of bat skulls in the genus *Molossus*. The primary objective is to investigate the variation and evolution of skull shape and size, integrating genetic data for *Molossus* species.
+This repository contains the script and associated information for the geometric morphometric (GM) analysis of bat skulls in the genus *Molossus*. The primary objective is to investigate the variation and evolution of skull shape and size, integrating genetic data for *Molossus* species. Article: Cranial morphology reveals a lack of phylogenetic signal and rapid adaptive radiation in the bat genus Molossus (Chiroptera: Molossidae). 
+
+Olímpio APM, Stefanello F, Dybas da Natividade B, Bernardi IP, da Silva Lima AC, Mendes SB, et al. (2025) Cranial morphology reveals a lack of phylogenetic signal and rapid adaptive radiation in the bat genus Molossus (Chiroptera: Molossidae). PLoS ONE 20(4): e0320117. https://doi.org/10.1371/journal.pone.0320117.
 
 ---
 
